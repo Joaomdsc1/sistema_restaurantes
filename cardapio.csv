@@ -1,0 +1,21 @@
+numero,nome,descricao,preco,tempo_estimado_minutos
+1,X-Burger,"Hambúrguer artesanal com queijo, batata frita e refrigerante",25.90,15
+2,X-Salada,"Hambúrguer com salada verde, tomate e molho especial",28.50,18
+3,X-Bacon,"Hambúrguer com bacon crocante e queijo cheddar",32.00,20
+4,Pizza Margherita,"Pizza tradicional com molho de tomate, mussarela e manjericão",35.00,25
+5,Pizza Pepperoni,"Pizza com pepperoni e queijo mussarela",38.50,25
+6,Pizza 4 Queijos,"Pizza com mussarela, parmesão, provolone e gorgonzola",42.00,25
+7,Macarrão Carbonara,"Macarrão com molho cremoso, bacon e parmesão",28.00,20
+8,Macarrão ao Molho Pesto,"Macarrão com pesto de manjericão e pinoli",26.50,18
+9,Salada Caesar,"Alface romana, croutons, parmesão e molho caesar",22.00,12
+10,Salada Grega,"Alface, tomate, pepino, azeitonas e queijo feta",24.50,12
+11,Sopa de Cebola,"Sopa cremosa de cebola caramelizada",18.00,10
+12,Sopa de Tomate,"Sopa cremosa de tomate com manjericão",16.50,10
+13,Batata Frita,"Batatas fritas crocantes com sal e pimenta",12.00,8
+14,Onion Rings,"Anéis de cebola empanados e fritos",14.00,10
+15,Refrigerante,"Refrigerante 350ml (Coca-Cola, Pepsi, Sprite)",6.50,2
+16,Suco Natural,"Suco natural de laranja ou limão 300ml",8.00,3
+17,Água Mineral,"Água mineral 500ml",4.00,1
+18,Sorvete de Chocolate,"Sorvete de chocolate com calda",12.00,5
+19,Sorvete de Baunilha,"Sorvete de baunilha com frutas",11.00,5
+20,Torta de Chocolate,"Torta de chocolate com chantilly",15.00,8 
